@@ -1,0 +1,3 @@
+class GitClass{
+    testVariable = "test"
+}
