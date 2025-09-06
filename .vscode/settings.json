@@ -1,0 +1,4 @@
+{
+    "search.useIgnoreFiles": true,
+    "typescript.preferences.includePackageJsonAutoImports": "auto"
+}
